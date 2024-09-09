@@ -1,5 +1,5 @@
-import Review from "../Models/ReviewSchema.js";
-import Esteticista from "../Models/EsteticistaSchema.js";
+import Review from "../models/ReviewSchema.js";
+import Esteticista from "../models/EsteticistaSchema.js";
 
 
 //get all reviews

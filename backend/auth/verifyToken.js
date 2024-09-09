@@ -1,6 +1,6 @@
 import jwt from 'jsonwebtoken'
-import Esteticista from '../Models/EsteticistaSchema.js'
-import User from '../Models/UserSchema.js'
+import Esteticista from '../models/EsteticistaSchema.js'
+import User from '../models/UserSchema.js'
 
 export const authenticate = async (req, res, next) => {
 

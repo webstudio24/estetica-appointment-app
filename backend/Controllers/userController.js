@@ -1,4 +1,4 @@
-import User from "../Models/UserSchema.js";
+import User from "../models/UserSchema.js";
 import Booking from "../models/BookingSchema.js";
 import Esteticista from "../models/EsteticistaSchema.js";
 

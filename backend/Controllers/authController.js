@@ -1,5 +1,5 @@
-import User from "../Models/UserSchema.js";
-import Esteticista from "../Models/EsteticistaSchema.js";
+import User from "../models/UserSchema.js";
+import Esteticista from "../models/EsteticistaSchema.js";
 import jwt from "jsonwebtoken";
 import bcrypt from "bcryptjs";
 
